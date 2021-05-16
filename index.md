@@ -20,7 +20,7 @@ I've worked on the coherence of the nearest neighbor algorithm with the Bayesian
 
 ---
 [3D Computer Vision](https://github.com/crsegerie/3D-computer-vision)
-<img src="images/projects/3D_reconstruction.PNG?raw=true"/>
+<img src="images/projects/3D_reconstruction.jpg?raw=true"/>
 In this repository, you will find my work done during the course of 3D computer vision. During the last TP, we reconstructed a face in 3D from two photos.
 
 ---
