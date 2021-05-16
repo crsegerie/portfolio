@@ -85,7 +85,7 @@ In this repository, you will find the solution of the winner of the extended com
 
 ### Fun
 
-- [Biostatistics](pdf/Biostatistics_Exam_Segerie.pdf) 
+[Biostatistics](pdf/Biostatistics_Exam_Segerie.pdf) 
 <img src="images/projects/covid.jpg?raw=true"/>
 
 In this paper written to validate the Biostatistics course, I critique/destroy the statistical methodology used by two highly cited papers written at the beginning of the Covid epidemic.
