@@ -10,6 +10,7 @@
 ---
 [Graphical Models](https://github.com/clement-bonnet/belief-propagation)
 <img src="images/projects/Factorgraph.jpg?raw=true"/>
+
 I worked on the Belief Propagation algorithm, and unified the notations between causal Bayesian graphs and factor graphs.
 
 ---
@@ -61,6 +62,20 @@ I worked on brain percellation using Ward's statistics.
 -->
 --- 
 
+
+### Competitions
+
+[KIRO2018](https://github.com/crsegerie/kiro2018)
+<img src="images/projects/air_france.jpg?raw=true"/>
+In this repository, you will find the winner solution of the KIRO2018, in partnership with air france. We build in an iterative way a solution to the scheduling problem of the air France aircraft fleet.
+
+---
+
+[KIRO2019](https://github.com/crsegerie/kiroptimiste/tree/master)
+<img src="images/projects/5G.jpg?raw=true"/>
+In this repository, you will find the solution of the winner of the extended competition of KIRO2019. We efficiently build the graph of 5G antennas connected by optical fiber in major French cities.
+
+
 ### Fun
 
 - [Biostatistics](pdf/Biostatistics_Exam_Segerie.pdf) 
@@ -77,7 +92,7 @@ Boogiewoogie is great fun to play on the piano, and it's also pretty easy to aut
 
 [Gestalt Essay](pdf/Course2-SEGERIE-Charbel-Raphael.pdf)
 <img src="images/projects/Escher.jpg?raw=true"/>
-In this essay, I use concepts from Gestalt psychology to describe the patterns of the birds of Eschers and to play with the attention of the viewer.
+In this essay, I use concepts from Gestalt psychology to describe the patterns of the birds of Eschers and I play with the attention of the viewer.
 
 
 ---
