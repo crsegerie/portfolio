@@ -2,22 +2,23 @@
 
 ---
 
-### Category Name 1 
+### My projects in IA
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[I've proposed a new attention architecture](http://example.com/)
+<img src="images/projects/architecture.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bayesian Machine Learning](https://github.com/crsegerie/bayesian_nearest_neighbors)
+I worked on the coherence of the nearest neighbor algorithm with the Bayesian axioms of probability.
+<img src="images/projects/bayesian_machine_learning.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### My project in Data science
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -26,8 +27,6 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
 
 
 ---
